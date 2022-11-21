@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Ongoing Research"
-permalink: /working-papers/
+permalink: /ongoing-research/
 author_profile: true
 ---
 
@@ -34,7 +34,8 @@ author_profile: true
 <details>
     <summary>
       Abstract | 
-      <a  href="https://www.crctr224.de/en/research-output/discussion-papers/archive/2021/DP258" role="button" target="_blank">Working Paper</a>
+      <a  href="https://www.crctr224.de/en/research-output/discussion-papers/archive/2021/DP258" role="button" target="_blank">Working Paper</a> |
+      <a  href="https://lt.org/publication/how-do-households-invest-their-savings" role="button" target="_blank">Policy Outreach Video</a>
     </summary>    
     The amount of risk that households take when investing their savings has long-term consequences for their financial well-being. However, a substantial share of observed heterogeneity in financial risk-taking remains unexplained by factors like risk aversion and wealth levels. This study explores whether subjective beliefs about stock market returns can close this knowledge gap. I make use of a unique data set that comprises incentivized, repeated elicitations of stock market beliefs and high-quality administrative asset data for a probability-based population sample. Households with more optimistic stock market expectations hold more risk in their portfolio, where the effect size is about half of the effect size of risk aversion. Furthermore, changes in expectations over time are related to changes in portfolio risk, which demonstrates that cross-sectional correlations are not driven by a time-invariant third variable. The results suggest that stock market expectations are an important component of portfolio choice. More generally, the study shows that subjective beliefs can be reliably measured in surveys and are related to actual high-stakes decisions.
 </details>

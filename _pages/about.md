@@ -14,7 +14,7 @@ I am a Research Associate at [IZA](https://www.iza.org/person/28688/christian-zi
 
 I co-coordinate IZA's program area ["Gender and Family"](https://www.iza.org/research/network/family). I am a core maintainer for [GETTSIM](https://github.com/iza-institute-of-labor-economics/gettsim) (GErman Taxes and Transfer SIMulator).
 
-On the following pages, you find my [publications](publications), my [ongoing research projects](working-papers), and my [CV](cv).
+On the following pages, you find my [publications](publications), my [ongoing research projects](ongoing-research), and my [CV](cv).
 
 <!-- # Getting started
 

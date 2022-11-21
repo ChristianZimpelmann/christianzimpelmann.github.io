@@ -23,7 +23,9 @@ author_profile: true
 <details>
   <summary>
     Abstract | 
-    <a  href="https://www.sciencedirect.com/science/article/abs/pii/S0927537122000355" role="button" target="_blank">Published Paper</a>
+    <a  href="https://www.sciencedirect.com/science/article/abs/pii/S0927537122000355" role="button" target="_blank">Published Paper</a> |
+    <a  href="https://wol.iza.org/opinions/job-search-during-a-pandemic-recession" role="button" target="_blank">Policy Brief</a>
+
   </summary>
   This paper studies job search behavior in the midst of a pandemic recession. We use long-running panel data from the Netherlands (LISS) and complement the core survey with our own COVID-specific module, conducted in June 2020, surveying job search effort of employed as well as unemployed respondents. We estimate an empirical model of job search over the business cycle over the period 2008–2019 to explore the gap between predicted and actual job search behavior in 2020. We find that job search during the pandemic recession differs strongly from previous downturns. The unemployed search significantly less than what we would normally observe during a recession of this size. For the employed, the propensity to search is even greater than what we would expect, but those who do search make significantly fewer job applications. Expectations about the duration of the pandemic seem to play a key role in explaining job search effort for the unemployed in 2020. Furthermore, employed individuals whose work situation has been affected by COVID-19 are searching more actively for a new job.
 </details>
@@ -34,10 +36,17 @@ author_profile: true
     <summary>
       Abstract | 
       <a  href="https://www.sciencedirect.com/science/article/pii/S0927537121000907" role="button" target="_blank"> Published Paper </a> | 
-      <a  href="https://github.com/ChristianZimpelmann/replication-work-hours-covid" role="button" target="_blank">Replication Package</a>
+      <a  href="https://github.com/ChristianZimpelmann/replication-work-hours-covid" role="button" target="_blank">Replication Package</a> |
+      <a  href="https://esb.nu/esb/20068498/ongelijkheid-in-arbeidsuren-en-inkomen-gedurende-het-eerste-jaar-van-de-coronapandemie" role="button" target="_blank">Policy Brief</a>
     </summary>    
     Using customized panel data spanning the entire year of 2020, we analyze the dynamics of working hours and household income across different stages of the Covid-19 pandemic. Similar to many other countries, during this period the Netherlands experienced a quick spread of the SARS-CoV-2 virus, adopted a set of fairly strict social distancing measures, gradually reopened, and imposed another lockdown to contain the second wave. We show that socio-economic status is strongly related to changes in working hours, especially when strict economic restrictions are in place. In contrast, household income is unaffected for all socio-economic groups. Examining the drivers of these observations, we find that pandemic-specific job characteristics (the ability to work from home and essential worker status) help explain the socio-economic gradient in total working hours. Household income is largely decoupled from shocks to working hours for employees. We provide suggestive evidence that large-scale labor hoarding schemes have helped insure employees against shocks to their employers.
 
     Supersedes: <a  href="https://www.iza.org/de/publications/dp/13623/labour-supply-during-lockdown-and-a-new-normal-the-case-of-the-netherlands" role="button" target="_blank">Labour supply during lockdown and a ``new normal'': The case of the Netherlands</a> and <a  href="https://covid-19.iza.org/publications/dp13158/" role="button" target="_blank">Labour Supply in the Early Stages of the COVID-19 Pandemic: Empirical Evidence on Hours, Home Office, and Expectations</a>
 
 </details>
+
+## Non peer-reviewed articles
+
+**Auswirkungen des gesetzlichen Mindestlohns auf individuelle Beschäftigungsbewegungen und betriebliche Lohnstrukturen in den Jahren 2015 bis 2020** &#124; [Ingo Isphording](https://sites.google.com/view/ingoeisphording/about-me){:target="\_blank"}, [Marco Caliendo](https://caliendo.de/){:target="\_blank"}, [Robert Mahlstedt](http://www.robertmahlstedt.com/){:target="\_blank"}, and [Nico Pestel](https://sites.google.com/site/pestelecon/){:target="\_blank"} &#124; Studie im Auftrag der Mindestlohnkommission 2022 &#124; <a  href="https://econpapers.repec.org/paper/izaizarrs/133.htm" role="button" target="_blank"> Study </a> 
+
+**Auswirkungen des gesetzlichen Mindestlohns auf Löhne und Arbeitszeiten** &#124; Ronald Bachmann, Holger Bonin, Bernhard Boockmann, Gökay Demir, Rahel Felder, Ingo Isphording, René Kalweit, Natalie Laub, and Christina Vonnahme &#124; Studie im Auftrag der Mindestlohnkommission 2020 &#124; <a  href="https://www.econstor.eu/handle/10419/222998" role="button" target="_blank"> Study </a> 
