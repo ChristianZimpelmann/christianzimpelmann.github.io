@@ -6,11 +6,12 @@ main:
   - title: "Ongoing Research"
     url: /working-papers/
 
-  # - title: "Talks"
-  #   url: /talks/
 
   # - title: "Teaching"
   #   url: /teaching/
 
   - title: "CV"
     url: /cv/
+
+  - title: "Site Notice"
+    url: /site_notice/

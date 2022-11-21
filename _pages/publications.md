@@ -34,7 +34,7 @@ author_profile: true
     <summary>
       Abstract | 
       <a  href="https://www.sciencedirect.com/science/article/pii/S0927537121000907" role="button" target="_blank"> Published Paper </a> | 
-      <a  href="https://doi.org/10.5281/zenodo.7114350" role="button" target="_blank">Replication Package</a>
+      <a  href="https://github.com/ChristianZimpelmann/replication-work-hours-covid" role="button" target="_blank">Replication Package</a>
     </summary>    
     Using customized panel data spanning the entire year of 2020, we analyze the dynamics of working hours and household income across different stages of the Covid-19 pandemic. Similar to many other countries, during this period the Netherlands experienced a quick spread of the SARS-CoV-2 virus, adopted a set of fairly strict social distancing measures, gradually reopened, and imposed another lockdown to contain the second wave. We show that socio-economic status is strongly related to changes in working hours, especially when strict economic restrictions are in place. In contrast, household income is unaffected for all socio-economic groups. Examining the drivers of these observations, we find that pandemic-specific job characteristics (the ability to work from home and essential worker status) help explain the socio-economic gradient in total working hours. Household income is largely decoupled from shocks to working hours for employees. We provide suggestive evidence that large-scale labor hoarding schemes have helped insure employees against shocks to their employers.
 
