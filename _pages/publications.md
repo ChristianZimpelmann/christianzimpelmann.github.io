@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-### Skewness Expectations and Portfolio Choice | [Tilman H. Drerup](https://sites.google.com/site/tdrerup/){:target="\_blank"} and [Matthias Wibral](https://www.maastrichtuniversity.nl/m.wibral){:target="\_blank"} | Experimental Economics (conditionally accepted)
+### Skewness Expectations and Portfolio Choice | [Tilman H. Drerup](https://sites.google.com/site/tdrerup/){:target="\_blank"} and [Matthias Wibral](https://www.maastrichtuniversity.nl/m.wibral){:target="\_blank"} | Experimental Economics (2022)
 
 <details>
     <summary>
