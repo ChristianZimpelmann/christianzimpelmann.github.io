@@ -7,13 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-### Skewness Expectations and Portfolio Choice | [Tilman H. Drerup](https://sites.google.com/site/tdrerup/){:target="\_blank"} and [Matthias Wibral](https://www.maastrichtuniversity.nl/m.wibral){:target="\_blank"} | Experimental Economics (conditionally accepted)
-
+### Skewness Expectations and Portfolio Choice | [Tilman H. Drerup](https://sites.google.com/site/tdrerup/){:target="\_blank"} and [Matthias Wibral](https://www.maastrichtuniversity.nl/m.wibral){:target="\_blank"} | Experimental Economics (2022)
 <details>
     <summary>
       Abstract | 
-      <a  href="https://docs.iza.org/dp15018.pdf" role="button" target="_blank">Working Paper</a> | 
-      <a  href="https://doi.org/10.5281/zenodo.7114350" role="button" target="_blank">Replication Package</a>
+      <a  href="https://link.springer.com/article/10.1007/s10683-022-09780-9" role="button" target="_blank"> Published Paper </a> | 
+      <a  href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2810940" role="button" target="_blank"> Last Working Paper </a> | 
+      <a  href="https://doi.org/10.5281/zenodo.7114350" role="button" target="_blank"> Replication Package </a>
     </summary>
     Many models of investor behavior predict that investors prefer assets that they believe to have positively skewed return distributions. We elicit detailed return expectations for a broad index fund and a single stock in a representative sample of the Dutch population. The data show substantial heterogeneity in individuals' skewness expectations of which only very little is captured by sociodemographics. Across assets, most respondents expect a higher variance and skewness for the individual stock compared to the index fund. Portfolio allocations increase with the skewness of respondents' return expectations for the respective asset, controlling for other moments of a respondent's expectations.
   </details>
@@ -49,4 +49,4 @@ author_profile: true
 
 **Auswirkungen des gesetzlichen Mindestlohns auf individuelle Beschäftigungsbewegungen und betriebliche Lohnstrukturen in den Jahren 2015 bis 2020** &#124; [Ingo Isphording](https://sites.google.com/view/ingoeisphording/about-me){:target="\_blank"}, [Marco Caliendo](https://caliendo.de/){:target="\_blank"}, [Robert Mahlstedt](http://www.robertmahlstedt.com/){:target="\_blank"}, and [Nico Pestel](https://sites.google.com/site/pestelecon/){:target="\_blank"} &#124; Studie im Auftrag der Mindestlohnkommission 2022 &#124; <a  href="https://econpapers.repec.org/paper/izaizarrs/133.htm" role="button" target="_blank"> Study </a> 
 
-**Auswirkungen des gesetzlichen Mindestlohns auf Löhne und Arbeitszeiten** &#124; Ronald Bachmann, Holger Bonin, Bernhard Boockmann, Gökay Demir, Rahel Felder, Ingo Isphording, René Kalweit, Natalie Laub, and Christina Vonnahme &#124; Studie im Auftrag der Mindestlohnkommission 2020 &#124; <a  href="https://www.econstor.eu/handle/10419/222998" role="button" target="_blank"> Study </a> 
+**Auswirkungen des gesetzlichen Mindestlohns auf Löhne und Arbeitszeiten** &#124; [Ronald Bachmann](https://sites.google.com/view/website-ronald-bachmann), [Holger Bonin](https://www.iza.org/en/person/273/holger-bonin), [Bernhard Boockmann](https://www.iaw.edu/ueberuns/team/direktoren-geschaeftsfuehrung/bernhard-boockmann.html), [Gökay Demir](https://www.goekaydemir.com/), [Rahel Felder](https://wwz.unibas.ch/en/persons/felder-rahel/), [Ingo Isphording](https://sites.google.com/view/ingoeisphording/about-me), [René Kalweit](https://www.iaw.edu/ueberuns/team/wissenschaftliche-mitarbeiter-mitarbeiterinnen/ren%C3%A9-kalweit.html), [Natalie Laub](https://www.iaw.edu/ueberuns/team/wissenschaftliche-mitarbeiter-mitarbeiterinnen/natalie-laub.html), and [Christina Vonnahme](https://www.rwi-essen.de/rwi/team/person/christina-vonnahme) &#124; Studie im Auftrag der Mindestlohnkommission 2020 &#124; <a  href="https://www.econstor.eu/handle/10419/222998" role="button" target="_blank"> Study </a> 
