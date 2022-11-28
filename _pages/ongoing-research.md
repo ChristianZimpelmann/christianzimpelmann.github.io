@@ -12,7 +12,7 @@ author_profile: true
 <details>
     <summary>
       Abstract | 
-      <a  href="https://www.econtribute.de/RePEc/ajk/ajkdps/ECONtribute_206_2022.pdf" role="button" target="_blank">Working Paper</a> | 
+      <a  href="https://docs.iza.org/dp15712.pdf" role="button" target="_blank">Working Paper</a> | 
       <a  href="https://www.wiwi.uni-bonn.de/gaudecker/_static/ambiguity-attitudes-online-appendix.pdf" role="button" target="_blank">Online Appendix</a> | 
       <a  href="https://doi.org/10.5281/zenodo.7114350" role="button" target="_blank">Replication Package</a>
     </summary>
