@@ -12,7 +12,7 @@ author_profile: true
     <summary>
       Abstract | 
       <a  href="https://link.springer.com/article/10.1007/s10683-022-09780-9" role="button" target="_blank"> Published Paper </a> | 
-      <a  href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2810940" role="button" target="_blank"> Last Working Paper </a> | 
+      <a  href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2810940" role="button" target="_blank"> Last Working Paper Version </a> | 
       <a  href="https://doi.org/10.5281/zenodo.7114350" role="button" target="_blank"> Replication Package </a>
     </summary>
     Many models of investor behavior predict that investors prefer assets that they believe to have positively skewed return distributions. We elicit detailed return expectations for a broad index fund and a single stock in a representative sample of the Dutch population. The data show substantial heterogeneity in individuals' skewness expectations of which only very little is captured by sociodemographics. Across assets, most respondents expect a higher variance and skewness for the individual stock compared to the index fund. Portfolio allocations increase with the skewness of respondents' return expectations for the respective asset, controlling for other moments of a respondent's expectations.
