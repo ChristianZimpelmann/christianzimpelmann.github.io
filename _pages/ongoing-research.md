@@ -54,4 +54,4 @@ author_profile: true
 
 ### Labor Supply Adjustments to a Minimum Pension Scheme | [Teresa Backhaus](https://sites.google.com/view/backhausecon/){:target="\_blank"} and [Hans-Martin von Gaudecker](https://www.wiwi.uni-bonn.de/gaudecker){:target="\_blank"}
 
-### Joint labor Supply Decisions and Gender Norms
+### Joint labor Supply Decisions and Gender Norms | [Tim Mensinger](https://tmensinger.com/){:target="\_blank"}
