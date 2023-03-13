@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You find my CV [here](https://1drv.ms/b/s!AhyraHRwWuo_gf9nwF6LCA8S3ibXEw?e=gJAjPA).
+You find my CV [here](https://1drv.ms/b/s!AhyraHRwWuo_goBzcmNqY9X9jLjcpw?e=BiPOmD).
 
 <!--- # Education
 
