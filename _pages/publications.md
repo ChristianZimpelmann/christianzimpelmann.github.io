@@ -45,7 +45,7 @@ author_profile: true
 
 </details>
 
-## Non peer-reviewed articles
+## Project reports
 
 **Auswirkungen des gesetzlichen Mindestlohns auf individuelle Beschäftigungsbewegungen und betriebliche Lohnstrukturen in den Jahren 2015 bis 2020** &#124; [Ingo Isphording](https://sites.google.com/view/ingoeisphording/about-me){:target="\_blank"}, [Marco Caliendo](https://caliendo.de/){:target="\_blank"}, [Robert Mahlstedt](http://www.robertmahlstedt.com/){:target="\_blank"}, and [Nico Pestel](https://sites.google.com/site/pestelecon/){:target="\_blank"} &#124; Studie im Auftrag der Mindestlohnkommission 2022 &#124; <a  href="https://econpapers.repec.org/paper/izaizarrs/133.htm" role="button" target="_blank"> Study </a> 
 
