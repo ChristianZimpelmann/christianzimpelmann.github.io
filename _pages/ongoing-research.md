@@ -7,6 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
+### The Shift Towards Remote Work and Parental Division of Labor | [Hans-Martin von Gaudecker](https://www.wiwi.uni-bonn.de/gaudecker){:target="\_blank"}, [Radost Holler](https://sites.google.com/view/radostholler){:target="\_blank"}, and [Lenard Simon](https://www.econ.uni-bonn.de/en/department/team/doctoral-students/lenard-paul-simon){:target="\_blank"}
+
+<details>
+    <summary>
+      Abstract | 
+      (Working paper coming soon) 
+    </summary>    
+    In this study, we analyze how the parents of young children react to the change in working conditions during the COVID-19 pandemic using representative panel data from the Netherlands spanning four waves from 2019 to 2021. We find that over the course of the pandemic, fathers increase childcare hours leading to a more egalitarian division of childcare between parents. We show that this change can be fully accounted for by fathers gaining asymmetrically more temporal flexibility through the shift to remote work accelerated by the pandemic. Additionally, we find evidence that mothers whose spouse have remote work possibilities increased their working hours over the course of the pandemic. Our results provide evidence that part of the unequal division of labor within families with respect to market and non-market work is driven by an asymmetric distribution of temporal flexibility. This asymmetry can be the result of joint household optimization when temporal flexibility in jobs is necessary for childcare provision but punished in terms of remuneration.
+</details>
+
 ### The Distribution of Ambiguity Attitudes | [Hans-Martin von Gaudecker](https://www.wiwi.uni-bonn.de/gaudecker){:target="\_blank"} and [Axel Wogrolly](https://www.linkedin.com/in/axel-wogrolly-1b528696/){:target="\_blank"}
 
 <details>
@@ -41,16 +51,6 @@ author_profile: true
 </details>
 
 ## Work in Progress
-
-### The Shift Towards Remote Work and Parental Division of Labor | [Hans-Martin von Gaudecker](https://www.wiwi.uni-bonn.de/gaudecker){:target="\_blank"}, [Radost Holler](https://sites.google.com/view/radostholler){:target="\_blank"}, and [Lenard Simon](https://www.econ.uni-bonn.de/en/department/team/doctoral-students/lenard-paul-simon){:target="\_blank"}
-
-<details>
-    <summary>
-      Abstract | 
-      (Working paper coming soon) 
-    </summary>    
-    In this study, we analyze how the parents of young children react to the change in working conditions during the COVID-19 pandemic using representative panel data from the Netherlands spanning four waves from 2019 to 2021. We find that over the course of the pandemic, fathers increase childcare hours leading to a more egalitarian division of childcare between parents. We show that this change can be fully accounted for by fathers gaining asymmetrically more temporal flexibility through the shift to remote work accelerated by the pandemic. Additionally, we find evidence that mothers whose spouse have remote work possibilities increased their working hours over the course of the pandemic. Our results provide evidence that part of the unequal division of labor within families with respect to market and non-market work is driven by an asymmetric distribution of temporal flexibility. This asymmetry can be the result of joint household optimization when temporal flexibility in jobs is necessary for childcare provision but punished in terms of remuneration.
-</details>
 
 ### Gender Role Attitudes and Couples' Labor Supply | [Tim Mensinger](https://tmensinger.com/){:target="\_blank"}
 
