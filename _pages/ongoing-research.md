@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-### The Shift Towards Remote Work and Parental Division of Labor | [Hans-Martin von Gaudecker](https://www.wiwi.uni-bonn.de/gaudecker){:target="\_blank"}, [Radost Holler](https://sites.google.com/view/radostholler){:target="\_blank"}, and [Lenard Simon](https://www.econ.uni-bonn.de/en/department/team/doctoral-students/lenard-paul-simon){:target="\_blank"}
+### How Has the Increase in Work from Home Impacted the Parental Division of Labor? | [Hans-Martin von Gaudecker](https://www.wiwi.uni-bonn.de/gaudecker){:target="\_blank"}, [Radost Holler](https://sites.google.com/view/radostholler){:target="\_blank"}, and [Lenard Simon](https://www.econ.uni-bonn.de/en/department/team/doctoral-students/lenard-paul-simon){:target="\_blank"}
 
 <details>
     <summary>
