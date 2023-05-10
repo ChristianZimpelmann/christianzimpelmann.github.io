@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Research Associate at [IZA](https://www.iza.org/person/28688/christian-zimpelmann). 
 
-I will be visiting the University of Oxford in May 2023.
+I am visiting the University of Oxford in May 2023.
 
 My research is on the intersection of labor economics, behavioral economics, and household finance. I am interested in labor supply and financial decision of households, particularly aiming to gain a deeper understanding of the behavioral foundations underlying these choices and how they are influenced by the institutional environment.
 
