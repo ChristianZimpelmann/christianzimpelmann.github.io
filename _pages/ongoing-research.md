@@ -55,5 +55,14 @@ author_profile: true
 
 ### Gender Role Attitudes and Couples' Labor Supply | [Tim Mensinger](https://tmensinger.com/){:target="\_blank"}
 
+<details>
+    <summary>
+      Abstract | 
+      <a  href="https://www.crctr224.de/en/research-output/discussion-papers/archive/2021/DP258" role="button" target="_blank">Working Paper</a> |
+      <a  href="https://lt.org/publication/how-do-households-invest-their-savings" role="button" target="_blank">Policy Outreach Video</a>
+    </summary>    
+    One of the most important factors of persistent gender inequality in labor market outcomes is the labor supply decision of parents around child birth. This study utilizes rich panel data from Germany to investigate the determinants of these decisions. Using self-reported gender role attitudes measured before the birth of the first child, we first show that gender role attitudes play a pivotal role for labor supply choices of mothers on both the extensive and intensive margin. In a second step, we are currently estimating a dynamic structural model of female labor supply incorporating heterogeneity in the disutility to work when young children are present. The model will allow us to quantify the contribution of gender role attitudes for labor supply choices compared to other factors like wages of both parents and the availability of childcare. Furthermore, we will be able to examine the role of gender role attitudes for ex-ante policy evaluations. By enhancing our understanding of the drivers of labor supply choices, this project provides valuable insights on policies aiming at increasing the labor supply of mothers.
+</details>
+
 ### Labor Supply Adjustments to a Minimum Pension Scheme | [Teresa Backhaus](https://sites.google.com/view/backhausecon/){:target="\_blank"} and [Hans-Martin von Gaudecker](https://www.wiwi.uni-bonn.de/gaudecker){:target="\_blank"}
 
