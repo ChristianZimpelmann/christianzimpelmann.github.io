@@ -53,7 +53,7 @@ author_profile: true
 
 ## Work in Progress
 
-### Gender Role Attitudes and Couples' Labor Supply | [Tim Mensinger](https://tmensinger.com/){:target="\_blank"}
+### Gender Role Attitudes and Mothers' Labor Supply | [Tim Mensinger](https://tmensinger.com/){:target="\_blank"}
 
 <details>
     <summary>
