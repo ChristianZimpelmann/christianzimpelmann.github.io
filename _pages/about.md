@@ -23,3 +23,5 @@ Please reach out to me if you would like to talk about my or your research!
 [//]: # I apply GETTSIM in both my research and a project commissioned by the German Ministry of Family Affairs on the effects of a new basic child security (Kindergrundsicherung).
 
 On the following pages, you find my [publications](publications), my [ongoing research projects](ongoing-research), and my [CV](cv).
+
+I will be on the Job Market 2023/2024.
