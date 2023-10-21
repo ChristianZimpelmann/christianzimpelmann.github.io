@@ -20,7 +20,7 @@ For my projects, I use advanced econometric and computational methods and utlili
 
 I have made significant contributions to the development of [GETTSIM](https://github.com/iza-institute-of-labor-economics/gettsim), an open-source model of the German tax and transfer system which I also apply in my research.
 
-Please get in touch if you would like to chat about my or your research!
+Please reach out to me if you would like to talk about my or your research!
 
 [//]: # I apply GETTSIM in both my research and a project commissioned by the German Ministry of Family Affairs on the effects of a new basic child security (Kindergrundsicherung).
 
