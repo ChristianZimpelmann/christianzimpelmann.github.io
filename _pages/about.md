@@ -16,7 +16,7 @@ I am interested in labor supply and financial decision of households, particular
 
 [//]: # I enjoy working on complex research projects that require advanced computational skills and state-of-the-art data science techniques. 
 
-I have made significant contributions to the development of [GETTSIM](https://github.com/iza-institute-of-labor-economics/gettsim), an open-source model of the German tax and transfer system which I also apply in my research.
+I have made significant contributions to the development of [GETTSIM](https://github.com/iza-institute-of-labor-economics/gettsim), an open-source model of the German tax and transfer system which I apply in my research.
 
 Please reach out to me if you would like to talk about my or your research!
 
