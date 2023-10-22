@@ -24,4 +24,4 @@ Please reach out to me if you would like to talk about my or your research!
 
 On the following pages, you find my [publications](publications), my [ongoing research projects](ongoing-research), and my [CV](cv).
 
-I will be on the Job Market 2023/2024 with my paper 'How Gender Role Attitudes Shape Maternal Labor Supply'.
+I will be on the Job Market 2023/2024 with my paper 'How Gender Role Attitudes Shape Maternal Labor Supply' (joint work with Tim Mensinger).
