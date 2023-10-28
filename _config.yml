@@ -58,6 +58,8 @@ yandex_site_verification:
 # Social Sharing
 twitter:
   username: &twitter
+bsky:
+  username: czimpelmann
 facebook:
   username:
   app_id:
@@ -80,7 +82,7 @@ analytics:
 author:
   name: "Christian Zimpelmann"
   avatar: "Zimpelmann-5.4.jpg"
-  bio: "Labour Economics <br> Behavioral Economics <br> Household Finance"
+  bio: "Labor Economics <br> Behavioral Economics"
   employer: "IZA - Institute of Labor Economics"
   employer_link: "https://www.iza.org/"
   location: "Bonn, Germany"
@@ -109,8 +111,9 @@ author:
   steam:
   tumblr:
   twitter: "c_zimpelmann"
-  mastodon: "c_zimpelmann"
-  mastodon_url: "https://econtwitter.net/@c_zimpelmann"
+  bsky: czimpelmann
+  mastodon: #"c_zimpelmann"
+  mastodon_url: #"https://bsky.app/profile/czimpelmann.bsky.social"
   vine:
   weibo:
   xing:
