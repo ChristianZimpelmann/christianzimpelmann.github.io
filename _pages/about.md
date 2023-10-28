@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+I am on the 2023/2024 academic job market.
 
 ## Job Market Paper
-I am on the 2023/2024 academic job market.
 
 ### How Gender Role Attitudes Shape Maternal Labor Supply | [Tim Mensinger](https://tmensinger.com/){:target="\_blank"}
 
 <details>
     <summary>
       Abstract | 
-      <a  role="button" target="_blank">Draft coming soon!</a> |     </summary>    
+      <a  role="button" target="_blank">Draft coming soon!</a>     </summary>    
     We examine the influence of gender role attitudes, referring to views about the appropriate role of mothers, on parents' labor supply decisions following childbirth. Using German panel data, we show that mothers with traditional gender attitudes are 15\% less likely to work and work four hours less during early motherhood than their egalitarian counterparts, with these differences being highly persistent. Fathers' attitudes are similarly important, emphasizing joint decision-making within couples. Furthermore, we examine how gender role attitudes mediate the effect of changes in economic incentives by looking at the introduction of a cash-for-care payment for parents who abstain from using public childcare. The policy reduced traditional mothers' labor supply substantially, but not labor supply of egalitarian mothers. To quantify how incentives and attitudes jointly shape labor supply decisions and to simulate counterfactual changes in economic incentives and gender attitudes, we estimate a life-cycle model of female labor supply. The findings underscore that gender role attitudes are of first-order importance for maternal labor supply decisions and can mediate the effects of policies.
 </details>
 
