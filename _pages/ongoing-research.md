@@ -53,14 +53,5 @@ author_profile: true
 
 ## Work in Progress
 
-### How Gender Role Attitudes Shape Maternal Labor Supply | [Tim Mensinger](https://tmensinger.com/){:target="\_blank"}
-
-<details>
-    <summary>
-      Abstract
-    </summary>    
-    We examine the influence of gender role attitudes on parents' labor supply decisions following childbirth using German panel data. Mothers with traditional gender attitudes are 15\% less likely to work during early motherhood than their egalitarian counterparts, with these differences being highly persistent. Fathers' attitudes are similarly important, emphasizing joint decision-making within couples. The introduction of a cash-for-care payment for parents who abstain from using public childcare, reduced traditional mothers' labor supply, but not labor supply of egalitarian mothers. Finally, we estimate a life-cycle model of female labor supply to quantify how incentives and attitudes jointly shape labor supply decisions and to simulate counterfactual changes in economic incentives and gender attitudes. The findings underscore the importance of gender attitudes in mothers' labor supply decisions and highlight how they can mediate the effects of policies.
-</details>
-
 ### Labor Supply Adjustments to a Minimum Pension Scheme | [Teresa Backhaus](https://sites.google.com/view/backhausecon/){:target="\_blank"} and [Hans-Martin von Gaudecker](https://www.wiwi.uni-bonn.de/gaudecker){:target="\_blank"}
 
