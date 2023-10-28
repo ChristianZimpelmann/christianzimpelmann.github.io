@@ -25,7 +25,7 @@ Please reach out to me if you would like to talk about my or your research!
 On the following pages, you find my [publications](publications), my [ongoing research projects](ongoing-research), and my [CV](cv).
 
 
-### Job Market Paper: How Gender Role Attitudes Shape Maternal Labor Supply | [Tim Mensinger](https://tmensinger.com/){:target="\_blank"}
+### Job Market Paper: How Gender Role Attitudes Shape Maternal Labor Supply (with [Tim Mensinger](https://tmensinger.com/){:target="\_blank"})
 
 <details>
     <summary>
