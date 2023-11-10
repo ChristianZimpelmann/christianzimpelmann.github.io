@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<a  href="https://christian-zimpelmann.eu/files/zimpelmann_labor_supply_attitudes.pdf" role="button" target="_blank">Download</a>
+<a  href="https://christian-zimpelmann.eu/files/cv_christian_zimpelmann.pdf" role="button" target="_blank">Download</a>
 
 <embed src="{{ site.baseurl }}/files/cv_christian_zimpelmann.pdf" width="600" height="700" type='application/pdf'>
