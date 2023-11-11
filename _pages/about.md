@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Postdoctoral Research Associate at [IZA](https://www.iza.org/person/28688/christian-zimpelmann) after finishing my PhD at the University of Bonn in 2021. In May 2023, I visted the University of Oxford. 
 
-I am on the 2023/2024 academic job market. Find my Job Market Paper [here](jmpp).
+I am on the 2023/2024 academic job market. Find my Job Market Paper [here](jmp).
 
 <!-- <p>&nbsp;</p> -->
 
