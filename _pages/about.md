@@ -16,7 +16,7 @@ I am on the 2023/2024 academic job market. Find my Job Market Paper [here](jmp).
 
 [//]: # My research is on the intersection of labor economics, behavioral economics, and household finance.
 
-I am interested in labor supply and financial decision of households, particularly aiming to gain a deeper understanding of the behavioral foundations underlying these choices and how they are influenced by the institutional environment. For my projects, I use advanced econometric and computational methods and utlilize both self-collected survey data and administrative data sets.
+I am interested in labor supply and financial decision of households, with a particular focus on the behavioral foundations underlying these choices and how they are influenced by the institutional environment. Methodologically, I use advanced econometric and computational methods and utlilize both self-collected survey data and large-scale administrative data sets.
 
 [//]: # I enjoy working on complex research projects that require advanced computational skills and state-of-the-art data science techniques.
 
