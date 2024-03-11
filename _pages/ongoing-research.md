@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-### How Gender Role Attitudes Shape Maternal Labor Supply (with [Tim Mensinger](https://tmensinger.com/){:target="\_blank"})
+### How Gender Role Attitudes Shape Maternal Labor Supply | [Tim Mensinger](https://tmensinger.com/){:target="\_blank"}
 
 <details>
     <summary>
