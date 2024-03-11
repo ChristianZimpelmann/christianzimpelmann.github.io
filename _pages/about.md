@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Associate at [IZA](https://www.iza.org/person/28688/christian-zimpelmann) after finishing my PhD at the University of Bonn in 2021. In May 2023, I visted the University of Oxford. 
+I am a Postdoctoral Researcher at [IZA](https://www.iza.org/person/28688/christian-zimpelmann) after finishing my PhD at the University of Bonn in 2021 and will join the University of Hamburg as a Postdoctoral Researcher in fall 2024. In May 2023, I visited the University of Oxford. 
 
-I am on the 2023/2024 academic job market. Find my Job Market Paper [here](jmp).
+<!-- I am on the 2023/2024 academic job market. Find my Job Market Paper [here](jmp). -->
 
 <!-- <p>&nbsp;</p> -->
 
@@ -26,6 +26,6 @@ Please reach out to me if you would like to talk about my or your research!
 
 [//]: # I apply GETTSIM in both my research and a project commissioned by the German Ministry of Family Affairs on the effects of a new basic child security (Kindergrundsicherung).
 
-On the following pages, you find my [Job Market Paper](jmp), my other [ongoing research projects](ongoing-research), my [publications](publications), and my [CV](cv).
+On the following pages, you find my [ongoing research projects](ongoing-research), my [publications](publications), and my [CV](cv).
 
 

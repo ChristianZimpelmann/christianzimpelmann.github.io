@@ -1,8 +1,8 @@
 # main links links
 main:
 
-  - title: "Job Market Paper"
-    url: /jmp/
+  # - title: "Job Market Paper"
+  #   url: /jmp/
 
   - title: "Ongoing Research"
     url: /ongoing-research/
