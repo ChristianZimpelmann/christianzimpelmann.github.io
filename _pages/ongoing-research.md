@@ -11,7 +11,7 @@ author_profile: true
 <details>
     <summary>
       Abstract | 
-      <a  href="https://christian-zimpelmann.eu/files/zimpelmann_labor_supply_attitudes.pdf" role="button" target="_blank">Paper</a> |
+      <a  href="https://christian-zimpelmann.eu/files/zimpelmann_labor_supply_attitudes.pdf" role="button" target="_blank">Working Paper</a> |
       <a  href="https://www.crctr224.de/newsroom/interviews/interview-with-christian-zimpelmann" role="button" target="_blank">Interview</a>
       </summary>    
 We examine the influence of gender role attitudes, specifically views about the appropriate role of mothers, on post-childbirth employment decisions. German panel data reveals that mothers with traditional attitudes are 15% less likely to work during early motherhood than their egalitarian counterparts. Among working mothers, those with traditional attitudes work four hours less per week, and these differences persist for at least seven years. Fathers' attitudes also predict maternal labor supply, highlighting joint decision-making within couples. Examining the interaction of attitudes with changes in economic incentives, we find that the introduction of a cash-for-care payment for parents who abstain from using public childcare substantially reduced the labor supply of traditional mothers, whereas egalitarian mothers' labor supply remained unaffected. Moreover, a structural life-cycle model of female labor supply demonstrates that labor supply elasticities are substantially larger for traditional mothers, while a counterfactual policy facilitating full-time childcare access has a more pronounced effect on egalitarian mothers. Our findings stress that gender role attitudes moderate the impact of policies, which implies that measured average policy effects depend on the distribution of attitudes and cannot easily be transferred over time or to other countries.
@@ -23,7 +23,10 @@ We examine the influence of gender role attitudes, specifically views about the 
     <summary>
       Abstract | 
       <a  href="https://christian-zimpelmann.eu/files/wfh-parental-division-labor.pdf" role="button" target="_blank">Working Paper</a> |
-      Coverage: Wirtschaftswoche 23, 2023
+      <a  href="https://newsroom.iza.org/de/press/in-the-media/wie-sich-der-child-care-gap-losen-lasst/" role="button" target="_blank">Coverage: Wirtschaftswoche 23, 2023</a>
+      
+      
+      
     </summary>    
     In this study, we analyze how the parents of young children react to the change in working conditions during the COVID-19 pandemic using representative panel data from the Netherlands spanning four waves from 2019 to 2021. We find that over the course of the pandemic, fathers increase childcare hours leading to a more egalitarian division of childcare between parents. We show that this change can be fully accounted for by fathers gaining asymmetrically more temporal flexibility through the shift to remote work accelerated by the pandemic. Additionally, we find evidence that mothers whose spouse have remote work possibilities increased their working hours over the course of the pandemic. Our results provide evidence that part of the unequal division of labor within families with respect to market and non-market work is driven by an asymmetric distribution of temporal flexibility. This asymmetry can be the result of joint household optimization when temporal flexibility in jobs is necessary for childcare provision but punished in terms of remuneration.
 </details>
