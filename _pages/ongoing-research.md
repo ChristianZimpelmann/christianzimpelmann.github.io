@@ -23,13 +23,15 @@ We examine the influence of gender role attitudes, specifically views about the 
     <summary>
       Abstract | 
       <a  href="https://christian-zimpelmann.eu/files/wfh-parental-division-labor.pdf" role="button" target="_blank">Working Paper</a> |
-      <a  href="https://newsroom.iza.org/de/press/in-the-media/wie-sich-der-child-care-gap-losen-lasst/" role="button" target="_blank">Coverage: Wirtschaftswoche 23, 2023</a>
-      
+      <a  href="https://newsroom.iza.org/de/press/in-the-media/wie-sich-der-child-care-gap-losen-lasst/" role="button" target="_blank">Coverage: Wirtschaftswoche 23, 2023</a> |
+      <a  href="https://www.faz.net/aktuell/karriere-hochschule/maenner-mit-homeoffice-job-uebernehmen-mehr-verantwortung-fuer-ihre-kinder-19939089.html" role="button" target="_blank">Coverage: FAZ Aug 2024</a>
+
       
       
     </summary>    
     In this study, we analyze how the parents of young children react to the change in working conditions during the COVID-19 pandemic using representative panel data from the Netherlands spanning four waves from 2019 to 2021. We find that over the course of the pandemic, fathers increase childcare hours leading to a more egalitarian division of childcare between parents. We show that this change can be fully accounted for by fathers gaining asymmetrically more temporal flexibility through the shift to remote work accelerated by the pandemic. Additionally, we find evidence that mothers whose spouse have remote work possibilities increased their working hours over the course of the pandemic. Our results provide evidence that part of the unequal division of labor within families with respect to market and non-market work is driven by an asymmetric distribution of temporal flexibility. This asymmetry can be the result of joint household optimization when temporal flexibility in jobs is necessary for childcare provision but punished in terms of remuneration.
 </details>
+
 
 ### Proud to Not Own Stocks: How Identity Shapes Financial Decisions | [Luca Henkel](https://luca-henkel.github.io/){:target="\_blank"}
 
