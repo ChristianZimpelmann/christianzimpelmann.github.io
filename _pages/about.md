@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher at [IZA](https://www.iza.org/person/28688/christian-zimpelmann) after finishing my PhD at the University of Bonn in 2021 and will join the University of Hamburg as a Postdoctoral Researcher in fall 2024. In May 2023, I visited the University of Oxford. 
+<!-- [University of Hamburg](https://www.iza.org/person/28688/christian-zimpelmann) -->
+I am a Postdoctoral Researcher at University of Hamburg after my PhD at the University of Bonn in 2021 and a postdoc at IZA, where I still am an associated member. In May 2023, I visited the University of Oxford. 
 
 <!-- I am on the 2023/2024 academic job market. Find my Job Market Paper [here](jmp). -->
 
