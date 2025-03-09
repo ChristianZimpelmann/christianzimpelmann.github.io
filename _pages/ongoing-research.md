@@ -44,16 +44,16 @@ We examine the influence of gender role attitudes, specifically views about the 
 
 </details>
 
-### The Distribution of Ambiguity Attitudes | [Hans-Martin von Gaudecker](https://www.wiwi.uni-bonn.de/gaudecker){:target="\_blank"} and [Axel Wogrolly](https://www.linkedin.com/in/axel-wogrolly-1b528696/){:target="\_blank"}
+### The Distribution and Relevance of Ambiguity Attitudes | [Hans-Martin von Gaudecker](https://www.wiwi.uni-bonn.de/gaudecker){:target="\_blank"} and [Axel Wogrolly](https://www.linkedin.com/in/axel-wogrolly-1b528696/){:target="\_blank"}
 
 <details>
     <summary>
       Abstract | 
-      <a  href="https://docs.iza.org/dp15712.pdf" role="button" target="_blank">Working Paper</a> | 
+      <a  href="https://www.crctr224.de/research/discussion-papers/archive/dp272" role="button" target="_blank">Working Paper</a> | 
       <a  href="https://www.wiwi.uni-bonn.de/gaudecker/_static/ambiguity-attitudes-online-appendix.pdf" role="button" target="_blank">Online Appendix</a> | 
       <a  href="https://github.com/ChristianZimpelmann/replication-ambig-beliefs" role="button" target="_blank">Replication Package</a>
     </summary>
-    This paper analyzes the stability and distribution of ambiguity attitudes using a broad population sample. Using high-powered incentives, we collected six waves of data on ambiguity attitudes about financial markets---our main application---and climate change. Estimating a structural stochastic choice model, we obtain three individual-level parameters: Ambiguity aversion, likelihood insensitivity, and the magnitude of decision errors. These parameters are very heterogeneous in the population. At the same time, they are stable over time and largely stable across domains. We summarize heterogeneity in these three dimensions using a discrete classification approach with four types. Each group makes up 20-30% of the sample. One group comes close to the behavior of expected utility maximizers. Two types are characterized by high likelihood insensitivity; one of them is ambiguity averse and the other ambiguity seeking. Members of the final group have large error parameters; robust conclusions about their ambiguity attitudes are difficult. Observed characteristics vary between groups in plausible ways. Ambiguity types predict risky asset holdings in the expected fashion, even after controlling for many covariates.
+    This paper analyzes the stability and distribution of ambiguity attitudes using a broad population sample. Using six waves of data, a structural stochastic choice model yields three individual-level parameters: ambiguity aversion, ambiguity-induced insensitivity, and the magnitude of decision errors. These parameters are heterogeneous across individuals, but stable over time and across the domains of financial markets and climate change. We summarize heterogeneity using a discrete classification approach with four types. We label these types as being near ambiguity neutral, ambiguity-averse, ambiguity-seeking, or erratic. Observed characteristics vary between groups in plausible ways. Ambiguity types predict risky asset allocation, even after controlling for covariates.
 </details>
   
 ### Beliefs and Portfolio Choice in a Representative Population
