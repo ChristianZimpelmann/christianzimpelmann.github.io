@@ -110,7 +110,7 @@ author:
   stackoverflow: # http://stackoverflow.com/users/123456/username
   steam:
   tumblr:
-  twitter: "c_zimpelmann"
+  # twitter: "c_zimpelmann"
   bsky: "czimpelmann"
   mastodon: #"c_zimpelmann"
   mastodon_url: #"https://bsky.app/profile/czimpelmann.bsky.social"
