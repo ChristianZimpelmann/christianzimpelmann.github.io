@@ -70,7 +70,9 @@ We examine the influence of gender role attitudes, specifically views about the 
 ## Work in Progress
 ### Sorting in Marriage Markets: The Role of Job Characteristics | [Andrew Judy](https://www.wiso.uni-hamburg.de/fachbereich-vwl/professuren/kesternich/team/judy-andrew.html){:target="\_blank"}, [Iris Kesternich](https://sites.google.com/site/kesternichiris/home){:target="\_blank"}, and [Isadora Mathevet](https://www.wiso.uni-hamburg.de/fachbereich-vwl/professuren/kesternich/team/mathevet-isadora.html){:target="\_blank"} 
 
+### Part time traps | [Jan Berendsen](https://www.wiso.uni-hamburg.de/fachbereich-vwl/professuren/kesternich/team/berendsen-jan.html){:target="\_blank"} and [Iris Kesternich](https://sites.google.com/site/kesternichiris/home){:target="\_blank"}
 
-<!-- 
-### Labor Supply Adjustments to a Minimum Pension Scheme | [Teresa Backhaus](https://sites.google.com/view/backhausecon/){:target="\_blank"} and [Hans-Martin von Gaudecker](https://www.wiwi.uni-bonn.de/gaudecker){:target="\_blank"} -->
+
+
+<!-- ### Labor Supply Adjustments to a Minimum Pension Scheme | [Teresa Backhaus](https://sites.google.com/view/backhausecon/){:target="\_blank"} and [Hans-Martin von Gaudecker](https://www.wiwi.uni-bonn.de/gaudecker){:target="\_blank"} -->
 
